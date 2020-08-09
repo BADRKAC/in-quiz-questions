@@ -34,7 +34,7 @@
 ```
 
 - [ ] The `<car>` element can be extended with only one attribute
-- [ ] The `<car>` element can be extended with multiple attributes
+- [ ] The `<car>` element can be extended with multiple attributes <----- correct
 - [ ] The `<car>` element have any attributes
 - [ ] The `<car>` element has child elements which can appear in order
 
